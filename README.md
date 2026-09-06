@@ -11,6 +11,6 @@ anime girls
 
 Example Output
 In the Starter: Anime Face Dataset kernel, you will find the code to create this:
-real vs fake images
+Real vs Fake images
 <img width="877" height="427" alt="image" src="https://github.com/user-attachments/assets/292176f5-23a0-46e8-82f9-6fbb1e222032" />
 
