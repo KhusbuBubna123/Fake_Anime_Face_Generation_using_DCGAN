@@ -3,7 +3,7 @@
 A Generative Adversarial Network (GAN) is a machine learning framework where two neural networks compete against each other to create realistic synthetic data.
 A GAN consists of two main parts: \
 **Generator:** This network takes random noise as input and creates fake data, such as images, audio, or text. **Discriminator: **This network acts as a detective. It evaluates data and tries to determine whether it is real (from the training dataset) or fake (created by the generator) \
-<img width="800" height="400" alt="GAN_architecture3" src="https://github.com/user-attachments/assets/4a55a9bc-010e-496f-99af-06c4fae61984" />
+<img width="400" height="200" alt="GAN_architecture3" src="https://github.com/user-attachments/assets/4a55a9bc-010e-496f-99af-06c4fae61984" />
 
 Some examples of Real Anime Face Images the Deep Convolutional Generative Adversial Network was trained on were as follows: \
 <img width="120" height="120" alt="836" src="https://github.com/user-attachments/assets/1d40a689-f328-4795-ad5b-c26fc83520c1" />
