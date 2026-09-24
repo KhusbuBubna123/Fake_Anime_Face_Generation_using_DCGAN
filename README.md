@@ -1,8 +1,8 @@
-# Anime Face Generation using Generative Adversial Network (GAN)
+# Anime Face Generation using Generative Adversial Network (GAN) \
 <img width="120" height="120" alt="836" src="https://github.com/user-attachments/assets/1d40a689-f328-4795-ad5b-c26fc83520c1" />
 <img width="120" height="120" alt="598" src="https://github.com/user-attachments/assets/2f43941e-1746-4ec2-81d4-40304679dae4" />
 <img width="120" height="120" alt="524" src="https://github.com/user-attachments/assets/0bd01d10-0af2-4573-91ed-40e85b9d118d" />
-<img width="120" height="120" alt="544" src="https://github.com/user-attachments/assets/71a10426-6aa6-4f2f-bfdc-96d45fdb97cb" />
+<img width="120" height="120" alt="544" src="https://github.com/user-attachments/assets/71a10426-6aa6-4f2f-bfdc-96d45fdb97cb" /> \
 A Generative Adversarial Network (GAN) is a machine learning framework where two neural networks compete against each other to create realistic synthetic data.
 A GAN consists of two main parts: \
 **Generator:** This network takes random noise as input and creates fake data, such as images, audio, or text. **Discriminator: **This network acts as a detective. It evaluates data and tries to determine whether it is real (from the training dataset) or fake (created by the generator) \
