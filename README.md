@@ -1,5 +1,8 @@
 # Anime Face Generation using Generative Adversial Network (GAN)
-
+<img width="120" height="120" alt="836" src="https://github.com/user-attachments/assets/1d40a689-f328-4795-ad5b-c26fc83520c1" />
+<img width="120" height="120" alt="598" src="https://github.com/user-attachments/assets/2f43941e-1746-4ec2-81d4-40304679dae4" />
+<img width="120" height="120" alt="524" src="https://github.com/user-attachments/assets/0bd01d10-0af2-4573-91ed-40e85b9d118d" />
+<img width="120" height="120" alt="544" src="https://github.com/user-attachments/assets/71a10426-6aa6-4f2f-bfdc-96d45fdb97cb" />
 A Generative Adversarial Network (GAN) is a machine learning framework where two neural networks compete against each other to create realistic synthetic data.
 A GAN consists of two main parts: \
 **Generator:** This network takes random noise as input and creates fake data, such as images, audio, or text. **Discriminator: **This network acts as a detective. It evaluates data and tries to determine whether it is real (from the training dataset) or fake (created by the generator) \
@@ -23,10 +26,6 @@ Some Anime Face Image during training Deep Convolutional Generative Adversial Ne
 \ \
 <img width="239" height="236" alt="Training_GAN_Image" src="https://github.com/user-attachments/assets/12d55431-8f0d-4ae0-b12e-cf27b012682b" />
 <img width="239" height="236" alt="Training_GAN_Image2" src="https://github.com/user-attachments/assets/94abcbcb-5d99-4889-b125-260c7ee860c8" />
-<img width="120" height="120" alt="836" src="https://github.com/user-attachments/assets/1d40a689-f328-4795-ad5b-c26fc83520c1" />
-<img width="120" height="120" alt="598" src="https://github.com/user-attachments/assets/2f43941e-1746-4ec2-81d4-40304679dae4" />
-<img width="120" height="120" alt="524" src="https://github.com/user-attachments/assets/0bd01d10-0af2-4573-91ed-40e85b9d118d" />
-<img width="120" height="120" alt="544" src="https://github.com/user-attachments/assets/71a10426-6aa6-4f2f-bfdc-96d45fdb97cb" />
 <img width="239" height="236" alt="Anime_Training_Image1" src="https://github.com/user-attachments/assets/b78c81a6-8c32-4241-b4ac-4bb63647dbd2" />
 <img width="239" height="236" alt="Anime_Training_Image3" src="https://github.com/user-attachments/assets/a9314b78-8ade-4fbc-9231-210023102fdc" />
 \
